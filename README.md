@@ -9,6 +9,8 @@
 - 📫 How to reach me: Email: tommybspeed@gmail.com or via my [Linkedin](https://www.linkedin.com/in/tommy-boileau-51668a244/)
 - ⚡ Fun fact: I have an identical twin brother that is currently serving in the United States Army.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=TommyBspeed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=TommyBspeed&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyBspeed)](https://github.com/anuraghazra/github-readme-stats)
